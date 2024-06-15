@@ -1,3 +1,3 @@
 # Labs-AKO
 laboratories from Computer Architecture 
-done instructions for labs + exercises for grade
+done exercises from instructions for labs + exercises for grade
